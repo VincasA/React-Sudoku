@@ -1,2 +1,4 @@
-.idea
-MySudoku.iml
+# IDE
+.idea/
+*.iml
+.vscode/
